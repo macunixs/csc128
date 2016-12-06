@@ -1,5 +1,4 @@
 /* Sample code to find difference of two numbers */
-
 #include <iostream> // import library for input-output
 using namespace std;  // tell compiler we want to use standard namespace (global)
 
