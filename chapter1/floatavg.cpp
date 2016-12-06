@@ -1,5 +1,4 @@
 /* compute average of two floating point numbers */
-
 #include <iostream> // import library for input-output
 using namespace std;  // tell compiler we want to use standard namespace (global)
 
